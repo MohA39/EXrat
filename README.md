@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/0Jnn1QT/EXRat-Logo.png" alt="logo" align="left" width="128" height="128"/>  <br><br><br><br>
+<img src="https://i.ibb.co/0Jnn1QT/EXRat-Logo.png" alt="logo" align="left" width="128" height="128"/>  <br><br><br><br><br>
 
 ## Description
 Disclaimer: This project should be used for authorized testing or educational purposes only.
